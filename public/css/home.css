@@ -2,7 +2,7 @@
 
 /* BANNER */
 
-.contenedor-banner {
+.home .contenedor-banner {
     display: none;
 }
 
@@ -10,28 +10,28 @@
 
 /* PRODUCTOS */
 
-.contenedor-productos {
+.home .contenedor-productos {
     margin-top: 30px;
 }
 
 /* article.producto {} */
 
-.contenedor-prod-individual {
+.home .contenedor-prod-individual {
     position: relative;
     margin-bottom: 30px;
 }
 
-.contenedor-prod-individual img.producto {
+.home .contenedor-prod-individual img.producto {
     width: 100%;
 }
 
-.contenedor-prod-individual .stick {
+.home .contenedor-prod-individual .stick {
     position: absolute;
     top: 0px;
     right: 10px;
 }
 
-.contenedor-prod-individual a {
+.home .contenedor-prod-individual a {
     position: absolute;
     top: 45%;
     left: 0;
