@@ -4,6 +4,8 @@ header {
     text-align: center;
 }
 
+/* LOGO */
+
 .contenedor-logo {
     margin: 15px auto 30px;
     width: 180px;
@@ -14,6 +16,8 @@ header {
     border-radius: 50%;
     width: 100%;
 }
+
+/* MENU */
 
 .a-bars {
     background-color: var(--colorGris);
@@ -41,9 +45,13 @@ header {
 
 /* MAIN */
 
+/* BANNER */
+
 .contenedor-banner {
     display: none;
 }
+
+/* PRODUCTOS*/
 
 .contenedor-productos {
     margin-top: 30px;
